@@ -1,7 +1,7 @@
 # 📁 Additional Files for Signal Processing Benchmark
 
-Bin file are not included directly in this repository due to **GitHub’s upload size limitation (100 MB maximum)**.  
-To keep the benchmark **fully transparent and reproducible**, this file are hosted on the **Graiphic download server**.
+Bin file is not included directly in this repository due to **GitHub’s upload size limitation (100 MB maximum)**.  
+To keep the benchmark **fully transparent and reproducible**, this file is hosted on the **Graiphic download server**.
 
 ---
 
