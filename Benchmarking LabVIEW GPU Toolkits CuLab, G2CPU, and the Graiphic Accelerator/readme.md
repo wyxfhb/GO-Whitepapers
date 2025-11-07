@@ -121,6 +121,7 @@ Our technology, **GO HW (Graph Orchestration Hardware)**, enables a universal, h
 | Version | Date | Author | Description |
 |----------|------|--------|-------------|
 | **1.0** | 2025-10-15 | Youssef Menjour (Graiphic) | First release of benchmarking whitepaper and LabVIEW sources |
+| **1.1** | 2025-11-07 | Youssef Menjour (Graiphic) | Added DirectML execution provider |
 
 ---
 
