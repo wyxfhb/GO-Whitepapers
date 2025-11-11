@@ -69,7 +69,7 @@ The benchmark covers **four workloads** — **GEMM**, **Arithmetic**, **Complex 
   <img src="./img/Benchmarking_Whitepaper.PNG" alt="Benchmarking Whitepaper Cover" width="600"/>
 </p>
 
-**File:** [`Benchmarking_the_Future_1.0.pdf`](./Benchmarking%20LabVIEW%20GPU%20Toolkits%20CuLab%2C%20G2CPU%2C%20and%20the%20Graiphic%20Accelerator/Benchmarking%20the%20Future%20Comparing%20LabVIEW%20GPU%20Toolkits%20CuLab%2C%20G2CPU%2C%20and%20the%20Graiphic%20Accelerator.1.0.pdf)
+**File:** [`Benchmarking_the_Future_1.1.pdf`](./Benchmarking%20LabVIEW%20GPU%20Toolkits%20CuLab%2C%20G2CPU%2C%20and%20the%20Graiphic%20Accelerator/Benchmarking%20the%20Future%20Comparing%20LabVIEW%20GPU%20Toolkits%20CuLab%2C%20G2CPU%2C%20and%20the%20Graiphic%20Accelerator.1.1.pdf)
 
 #### 🧪 Source Materials and Reproducibility
 All **LabVIEW source files** used to generate this whitepaper’s results are publicly available to ensure **transparency and reproducibility**.  
