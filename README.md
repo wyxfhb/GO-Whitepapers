@@ -1,22 +1,20 @@
-# Graiphic Whitepaper Series
+# Graiphic GO Whitepaper Series
 
-A curated collection of Graiphic’s technical publications covering **graph computing**, **AI orchestration**, **knowledge-driven learning**, and **hardware–software unification**.  
+A curated collection of Graiphic’s technical publications covering graph computing, AI orchestration, knowledge-driven learning, and hardware–software unification.  
 Each whitepaper resides in its own folder with the corresponding PDF and, when applicable, associated source material.
-
 
 ## 📄 Whitepapers & Repositories
 
-
-### **1. SOTA — The LabVIEW IDE for Graph Computing (v1.0 — upcoming)**  
+### **1. SOTA — The LabVIEW IDE for Graph Computing (v1.0 — upcoming)**
 **Theme:** ONNX-native authoring, compilation, and orchestration inside LabVIEW  
 **Summary:**  
 SOTA provides a full-stack environment where engineers can build, edit, optimize, train, and deploy ONNX graphs visually inside LabVIEW.  
-It serves as the foundation of Graiphic’s unified stack, enabling graph-based orchestration across GO HW, GO GenAI, and GO IML.  
+It serves as the foundation of Graiphic’s unified stack used across GO HW, GO GenAI, and GO IML.  
 👉 *(coming soon)*
 
 ---
 
-### **2. GO HW — From Models to Systems (v1.3)**  
+### **2. GO HW — From Models to Systems (v1.3)**
 **Theme:** Hardware orchestration through ONNX  
 **Summary:**  
 GO HW extends ONNX into a deterministic system-control graph including GPIO, DMA, ADC/DAC, timers, and energy-aware primitives.  
@@ -30,11 +28,11 @@ It enables real-time graph execution across CPUs, GPUs, FPGAs, NPUs, and embedde
 
 ---
 
-### **3. GO GenAI — From Fragmentation to Orchestration (v1.0)**  
+### **3. GO GenAI — From Fragmentation to Orchestration (v1.0)**
 **Theme:** Unified orchestration of Generative AI through ONNX  
 **Summary:**  
 GO GenAI turns ONNX into a dynamic execution fabric that coordinates models, tokenizers, data streams, logic, and hardware runtimes.  
-It provides deterministic, multi-provider execution and removes the need for Python glue code, enabling fully visual orchestration through SOTA.
+It provides deterministic multi-provider execution and removes the need for Python glue code, enabling fully visual orchestration through SOTA.
 
 - **Whitepaper:**  
   👉 [`GO-GenAI_Whitepaper_1.0.pdf`](./GO%20GenAI%20%E2%80%94%20From%20Fragmentation%20to%20Orchestration/GO-GenAI_Whitepaper_1.0.pdf)
@@ -44,20 +42,11 @@ It provides deterministic, multi-provider execution and removes the need for Pyt
 
 ---
 
-### **4. GO IML — From Theory to Superiority (v1.0)**  
-**Theme:** Informed Machine Learning: merging data, physics, logic, and expert knowledge inside the ONNX graph  
+### **4. GO IML — From Theory to Superiority (v1.0)**
+**Theme:** Informed Machine Learning merging data, physics, logic, and expert knowledge inside the ONNX graph  
 **Summary:**  
-GO IML introduces a new paradigm where **constraints, equations, rules, priors, and domain knowledge become first-class elements of the ONNX training graph**.  
-It allows training pipelines to integrate physical laws, symbolic logic, mission rules, and structured priors directly into the optimization process—without separate engines or code.
-
-Key capabilities:  
-- constraint-aware neural networks (physics, logic, causal structure)  
-- hybrid data + knowledge training loops defined visually inside SOTA  
-- ONNX-native informed components (PhysicsConstraint, RuleGate, PriorLoss…)  
-- portable deployment on CPU/GPU/FPGA/NPU with ONNX Runtime  
-- superior generalization, fewer data requirements, and robust real-world behavior  
-
-GO IML completes the triad formed by GO HW (graph-to-hardware) and GO GenAI (graph-driven generative intelligence), establishing a unified, sovereign stack for **Physical AI**.
+GO IML embeds constraints, rules, priors, and physical knowledge directly into ONNX training graphs.  
+It unifies data-driven and knowledge-driven learning, enabling stronger generalization and robust real-world behavior.
 
 - **Whitepaper:**  
   👉 [`GO IML_Whitepaper_1.0.pdf`](./GO%20IML%20%E2%80%94%20From%20Theory%20to%20Superiority/GO%20IML_Whitepaper_1.0.pdf)
