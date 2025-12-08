@@ -3,11 +3,9 @@
 A curated collection of Graiphic’s technical publications covering **graph computing**, **AI orchestration**, **knowledge-driven learning**, and **hardware–software unification**.  
 Each whitepaper resides in its own folder with the corresponding PDF and, when applicable, associated source material.
 
----
 
 ## 📄 Whitepapers & Repositories
 
----
 
 ### **1. SOTA — The LabVIEW IDE for Graph Computing (v1.0 — upcoming)**  
 **Theme:** ONNX-native authoring, compilation, and orchestration inside LabVIEW  
@@ -53,16 +51,16 @@ GO IML introduces a new paradigm where **constraints, equations, rules, priors, 
 It allows training pipelines to integrate physical laws, symbolic logic, mission rules, and structured priors directly into the optimization process—without separate engines or code.
 
 Key capabilities:  
-- constraint-aware neural networks (physics, logic, causal structure),  
-- hybrid data + knowledge training loops defined visually inside SOTA,  
-- ONNX-native informed components (PhysicsConstraint, RuleGate, PriorLoss…),  
-- portable deployment on CPU/GPU/FPGA/NPU using standard ONNX Runtime,  
-- superior generalization, fewer data requirements, and more robust real-world behavior.
+- constraint-aware neural networks (physics, logic, causal structure)  
+- hybrid data + knowledge training loops defined visually inside SOTA  
+- ONNX-native informed components (PhysicsConstraint, RuleGate, PriorLoss…)  
+- portable deployment on CPU/GPU/FPGA/NPU with ONNX Runtime  
+- superior generalization, fewer data requirements, and robust real-world behavior  
 
 GO IML completes the triad formed by GO HW (graph-to-hardware) and GO GenAI (graph-driven generative intelligence), establishing a unified, sovereign stack for **Physical AI**.
 
 - **Whitepaper:**  
-  👉 [`GO_IML_Whitepaper_1.0.pdf`](./GO%20IML%20%E2%80%94%20From%20Theory%20to%20Superiority/GO_IML_Whitepaper_1.0.pdf)
+  👉 [`GO IML_Whitepaper_1.0.pdf`](./GO%20IML%20%E2%80%94%20From%20Theory%20to%20Superiority/GO%20IML_Whitepaper_1.0.pdf)
 
 - **Folder:**  
   👉 [`GO IML — From Theory to Superiority`](./GO%20IML%20%E2%80%94%20From%20Theory%20to%20Superiority/)
