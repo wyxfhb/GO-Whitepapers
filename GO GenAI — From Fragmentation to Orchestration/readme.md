@@ -88,7 +88,7 @@ but as the **system layer that the GenAI ecosystem was missing**.
 
 ## Whitepaper
 
-👉 **[`GO-GenAI_Whitepaper_1.0.pdf`](./GO-GenAI_Whitepaper_1.0.pdf)**  
+👉 **[`GO-GenAI_Whitepaper_1.1.pdf`](./GO-GenAI_Whitepaper_1.1.pdf)**  
 
 If you want to understand how AI can evolve into a unified, deployable, sovereign system,  
 this whitepaper provides a complete, structured, and actionable blueprint.
