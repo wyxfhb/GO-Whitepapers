@@ -151,6 +151,6 @@ The unified graph approach reduces:
 
 # Download the Whitepaper
 
-👉 **[GO HW — From Models to Systems (Whitepaper v1.3 PDF)](./GO-HW_Whitepaper_1.3.pdf)**
+👉 **[GO HW — From Models to Systems (Whitepaper v1.4 PDF)](./GO-HW_Whitepaper_1.4.pdf)**
 
 ---
