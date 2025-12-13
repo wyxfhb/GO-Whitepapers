@@ -95,7 +95,7 @@ it is the **intelligence layer the ecosystem has been missing**.
 
 ## Whitepaper
 
-👉 **[`GO IML_Whitepaper_1.0.pdf`](./GO%20IML_Whitepaper_1.0.pdf)**  
+👉 **[`GO IML_Whitepaper_1.1.pdf`](./GO%20IML_Whitepaper_1.1.pdf)**  
 
 If you want to understand how AI becomes **structured, grounded, robust, and deployable**,  
 this whitepaper provides the complete blueprint.
